@@ -132,8 +132,8 @@ main {
   display: flex;
   width: 50%;
   gap: 5px;
-  justify-content: left; 
-  margin: 0;
+  align-items: flex-start; 
+  margin: auto;
 }
 
 .verify {
