@@ -133,6 +133,7 @@ main {
   width: 50%;
   gap: 5px;
   justify-content: left; 
+  margin: 0;
 }
 
 .verify {
