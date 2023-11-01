@@ -132,6 +132,7 @@ main {
   display: flex;
   width: 50%;
   gap: 5px;
+  justify-content: left; 
 }
 
 .verify {
