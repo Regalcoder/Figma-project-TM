@@ -57,12 +57,13 @@ main {
   display: flex;
   gap: 25px;
   margin-bottom: 10px;
+  width: 100%;
 }
 
 .Fname {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 45%;
 }
 
 .nameLabel {
