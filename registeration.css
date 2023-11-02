@@ -193,7 +193,7 @@ main {
 .facebookbutton {
   display: flex;
   align-items: center;
-  width: 50%;
+  width: 60%;
   height: 45px;
   gap: 10px;
   border-radius: 5px;
