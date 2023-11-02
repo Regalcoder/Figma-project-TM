@@ -381,6 +381,10 @@ main {
         background-color: green;
       }
 
+      .Fname {
+      width: 100%;
+      }
+
       .eLabel {
         font-size: 8px;
       }
@@ -412,7 +416,7 @@ main {
       .regContainer {
       width: 100%;
       display: flex;
-      margin-bottom: 15px;
+      margin-bottom: 5px;
     }
 
       .regButton {
@@ -423,13 +427,13 @@ main {
 
       .or {
         font-size: 10px;
-        margin-bottom: 15px;
+        margin-bottom: 5px;
       }
 
       .socialsContainer {
         display: flex;
         flex-direction: column;
-        gap: 15px;
+        gap: 25px;
         justify-content: center;
       }
       
