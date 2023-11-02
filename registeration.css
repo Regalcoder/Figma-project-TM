@@ -130,6 +130,7 @@ main {
 
 .verifyBox {
   width: 100%;
+  background-color: blue;
 }
 
 .verify {
@@ -140,6 +141,7 @@ main {
   letter-spacing: 0em;
   padding-top: 17px;
   width: 15%;
+  background-color: black;
 }
 
 .regContainer {
