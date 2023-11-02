@@ -129,8 +129,7 @@ main {
 }
 
 .verifyBox {
-  width: 50%;
-  background-color: blue;
+  width: 100%;
 }
 
 .verify {
@@ -140,7 +139,6 @@ main {
   line-height: 20px;
   letter-spacing: 0em;
   padding-top: 17px;
-  background-color: green;
 }
 
 .regContainer {
@@ -183,7 +181,7 @@ main {
 
 .googleButton {
   display: flex;
-  width: 30%;
+  width: 50%;
   height: 45px;
   align-items: center;
   gap: 10px;
@@ -195,7 +193,7 @@ main {
 .facebookbutton {
   display: flex;
   align-items: center;
-  width: 30%;
+  width: 50%;
   height: 45px;
   gap: 10px;
   border-radius: 5px;
