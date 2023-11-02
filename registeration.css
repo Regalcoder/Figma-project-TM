@@ -409,6 +409,12 @@ main {
         line-height: 12px;
       }
 
+      .regContainer {
+      width: 100%;
+      display: flex;
+      margin-bottom: 15px;
+    }
+
       .regButton {
         width: 35%;
         height: 28px;
@@ -417,12 +423,13 @@ main {
 
       .or {
         font-size: 10px;
+        margin-bottom: 15px;
       }
 
       .socialsContainer {
         display: flex;
         flex-direction: column;
-        gap: 12px;
+        gap: 15px;
         justify-content: center;
       }
       
