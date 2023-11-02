@@ -378,7 +378,6 @@ main {
         gap: 5px;
         margin-bottom: 10px;
         width: 100%;
-        background-color: green;
       }
 
       .Fname {
@@ -416,7 +415,7 @@ main {
       .regContainer {
       width: 100%;
       display: flex;
-      margin-bottom: 5px;
+      margin-bottom: 0px;
     }
 
       .regButton {
