@@ -130,7 +130,7 @@ main {
 
 .verifyBox {
   display: flex;
-  width: 50%;
+  width: 100%;
   gap: 5px;
   align-items: flex-start; 
   margin: auto;
@@ -143,6 +143,7 @@ main {
   line-height: 20px;
   letter-spacing: 0em;
   padding-top: 17px;
+  width: 100%;
 }
 
 .regContainer {
