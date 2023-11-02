@@ -175,14 +175,14 @@ main {
 
 .socialsContainer {
   display: flex;
-  gap: 13px;
+  gap: 10px;
   justify-content: center;
   width: 100%;
 }
 
 .googleButton {
   display: flex;
-  width: 50%;
+  width: 30%;
   height: 45px;
   align-items: center;
   gap: 10px;
@@ -194,7 +194,7 @@ main {
 .facebookbutton {
   display: flex;
   align-items: center;
-  width: 60%;
+  width: 30%;
   height: 45px;
   gap: 10px;
   border-radius: 5px;
