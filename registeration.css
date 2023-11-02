@@ -369,6 +369,7 @@ main {
       .nameBox {
         height: 22px;
         font-size: 8px;
+        width: 100%;
       }
 
       .nameContainer {
@@ -376,6 +377,7 @@ main {
         flex-direction: column;
         gap: 5px;
         margin-bottom: 10px;
+        width: 100%;
       }
 
       .eLabel {
