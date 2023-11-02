@@ -129,7 +129,7 @@ main {
 }
 
 .verifyBox {
-  width: 100%;
+  width: 50%;
   background-color: blue;
 }
 
@@ -140,7 +140,6 @@ main {
   line-height: 20px;
   letter-spacing: 0em;
   padding-top: 17px;
-  width: 5%;
   background-color: green;
 }
 
