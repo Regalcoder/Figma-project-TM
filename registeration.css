@@ -132,8 +132,6 @@ main {
   display: flex;
   width: 100%;
   gap: 5px;
-  align-items: flex-start; 
-  margin: auto;
 }
 
 .verify {
@@ -143,7 +141,7 @@ main {
   line-height: 20px;
   letter-spacing: 0em;
   padding-top: 17px;
-  width: 50%;
+  width: 30%;
 }
 
 .regContainer {
